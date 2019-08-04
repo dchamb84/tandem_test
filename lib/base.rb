@@ -1,6 +1,6 @@
 require 'pry'
 class Base
-  
+
   @min = 0
   @max = 100
   @not_sure_error = 'not sure what to do here'
